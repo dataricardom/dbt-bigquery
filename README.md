@@ -1,1 +1,3 @@
-# dbt-bigquery
+# DBT com Big Query
+
+## Ricardo Marques
