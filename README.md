@@ -78,3 +78,16 @@ No projeto, foi utilizado o comando **`dbt seed`** para criar tabelas no **BigQu
 3. **Estrutura das Tabelas:** Durante a execução do dbt seed, o dbt cria tabelas no BigQuery com o mesmo nome dos arquivos CSV, mas na schema e projeto configurados no profiles.yml.
 
 4. **Configuração Adicional:** Caso haja necessidade de ajustes como a definição de tipos de dados ou configurações específicas de partição e clustering no BigQuery, esses parâmetros podem ser configurados diretamente no arquivo dbt_project.yml ou dentro do próprio arquivo profiles.yml.
+
+
+
+### 🏗️ Estrutura do Projeto dbt
+
+O projeto foi estruturado seguindo as melhores práticas de modelagem com **dbt**, utilizando os diretórios:
+
+- **`staging/`**: onde são feitas as primeiras transformações e limpezas dos dados brutos vindos do BigQuery.
+- **`intermediate/`**: camada intermediária onde os dados são integrados, enriquecidos e organizados para análises mais complexas.
+- **`marts/`**: camada final orientada ao negócio, com tabelas e métricas preparadas para consumo analítico por ferramentas de BI ou dashboards.
+
+Essa estrutura permite organizar as transformações de forma clara e escalável, separando responsabilidades e facilitando a manutenção.
+A modelagem conduz os dados até o **mart analítico**, ponto final de entrega para **análises de negócio**.
