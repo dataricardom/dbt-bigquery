@@ -50,3 +50,25 @@ O dbt foi configurado para utilizar um profiles.yml fora do diretório padrão, 
 ```bash
 
 dbt run --profiles-dir ../
+
+```
+## 🔧 Uso do dbt Seed para Criar Tabelas no BigQuery
+
+No projeto, foi utilizado o comando **`dbt seed`** para criar tabelas no **BigQuery** a partir de arquivos CSV armazenados localmente. O **dbt seed** permite carregar dados diretamente para o BigQuery e é útil para importar dados de referência ou dados estáticos necessários para os modelos.
+
+### 📌 Configuração do dbt Seed
+
+1. **Arquivos CSV**: Os arquivos CSV com os dados a serem carregados foram armazenados na pasta `data/` do projeto. Esses arquivos devem estar formatados corretamente para que o dbt consiga carregá-los no BigQuery.
+
+2. **Comando dbt seed**: O comando `dbt seed` foi utilizado para carregar os arquivos para o BigQuery. O dbt automaticamente cria as tabelas e carrega os dados a partir dos arquivos CSV.
+
+   O comando utilizado foi:
+
+   ```bash
+   dbt seed
+
+   ```
+
+3. **Estrutura das Tabelas:** Durante a execução do dbt seed, o dbt cria tabelas no BigQuery com o mesmo nome dos arquivos CSV, mas na schema e projeto configurados no profiles.yml.
+
+4. **Configuração Adicional:** Caso haja necessidade de ajustes como a definição de tipos de dados ou configurações específicas de partição e clustering no BigQuery, esses parâmetros podem ser configurados diretamente no arquivo dbt_project.yml ou dentro do próprio arquivo profiles.yml.
