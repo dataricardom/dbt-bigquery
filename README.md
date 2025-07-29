@@ -33,8 +33,7 @@ datawarehouse:
 Essas variáveis devem ser definidas em um arquivo .env ou exportadas no ambiente de execução, por exemplo:
 
 ```bash
-Copiar
-Editar
+
 export DBT_METHOD=service-account
 export DBT_PROJECT=seu-projeto
 export DBT_DATASET=seu_dataset
@@ -49,6 +48,5 @@ export DBT_JOB_RETRIES=1
 O dbt foi configurado para utilizar um profiles.yml fora do diretório padrão, sendo o caminho especificado com a flag --profiles-dir:
 
 ```bash
-Copiar
-Editar
+
 dbt run --profiles-dir ../
