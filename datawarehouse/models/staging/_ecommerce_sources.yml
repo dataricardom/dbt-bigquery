@@ -1,0 +1,19 @@
+sources:
+  - name: e-commerce
+    schema: dataset_dbt
+    description: Dados de e-commerce para JAFFLE SHOP
+    tables:
+      - name: raw_customers
+        description: Um registro SKU dos clientes.
+      - name: raw_items
+        description: Registro de suprimento por SKU de itens vendidos.
+      - name: raw_orders_2023
+        description: Registro de pedidos realizados em 2023
+      - name: raw_orders_2024
+        description: Registro de pedidos realizados em 2024
+      - name: raw_products
+        description: Um registro SKU dos itens vendidos nas lojas.
+      - name: raw_stores
+        description: Registro das Lojas
+      - name: raw_supplies
+        description: Registro dos suprimentos
