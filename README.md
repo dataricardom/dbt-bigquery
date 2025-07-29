@@ -56,9 +56,15 @@ dbt run --profiles-dir ../
 
 No projeto, foi utilizado o comando **`dbt seed`** para criar tabelas no **BigQuery** a partir de arquivos CSV armazenados localmente. O **dbt seed** permite carregar dados diretamente para o BigQuery e é útil para importar dados de referência ou dados estáticos necessários para os modelos.
 
+
+<p align="center">
+  <img src="pic/dbt-seed.png" alt="Fluxo do dbt seed para BigQuery" width="500">
+</p>
+
+
 ### 📌 Configuração do dbt Seed
 
-1. **Arquivos CSV**: Os arquivos CSV com os dados a serem carregados foram armazenados na pasta `data/` do projeto. Esses arquivos devem estar formatados corretamente para que o dbt consiga carregá-los no BigQuery.
+1. **Arquivos CSV**: Os arquivos CSV com os dados a serem carregados foram armazenados na pasta `seeds/` do projeto. Esses arquivos devem estar formatados corretamente para que o dbt consiga carregá-los no BigQuery.
 
 2. **Comando dbt seed**: O comando `dbt seed` foi utilizado para carregar os arquivos para o BigQuery. O dbt automaticamente cria as tabelas e carrega os dados a partir dos arquivos CSV.
 
