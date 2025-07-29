@@ -1,6 +1,6 @@
 sources:
   - name: e-commerce
-    schema: dataset_dbt
+    schema: raw
     description: Dados de e-commerce para JAFFLE SHOP
     tables:
       - name: raw_customers
