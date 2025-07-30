@@ -1,0 +1,101 @@
+cliente_id,nome,email,estado
+1,Ana Sophia Araújo,carlos-eduardo09@santos.com,MG
+2,Sra. Elisa das Neves,da-matadaniel@duarte.com,DF
+3,Vicente Cavalcanti,cardosoana-beatriz@ferreira.net,RN
+4,Sarah Viana,luiz-miguelnovaes@hotmail.com,PE
+5,Nicolas Pereira,wlopes@gmail.com,SC
+6,Antônio Carvalho,ecastro@santos.br,BA
+7,Enzo Santos,vicentegomes@pires.org,AP
+8,Alice da Paz,maria-alice12@correia.com,GO
+9,Dra. Pietra Viana,miguel93@da.org,SP
+10,Clarice Porto,calebe16@yahoo.com.br,SE
+11,Emilly Almeida,melosophia@ferreira.br,PA
+12,Samuel Pereira,correiadavi-lucas@ig.com.br,MT
+13,Dr. Davi Lucas da Rosa,mouraisis@pinto.org,SE
+14,Sr. Bryan Nascimento,moraeskaique@ig.com.br,PE
+15,João Gabriel Monteiro,moraesstella@da.net,GO
+16,Emanuella Barbosa,aliciaaraujo@melo.net,TO
+17,Sra. Maria Alice Costa,valentinacavalcanti@uol.com.br,AC
+18,Ana Júlia Vieira,mdas-neves@monteiro.org,MA
+19,Pedro Lucas Moreira,benjaminda-mota@melo.org,SC
+20,Caroline Campos,samuel86@araujo.com,MA
+21,Rafael Dias,isadoraferreira@gmail.com,TO
+22,Bruno Dias,umonteiro@pinto.com,RJ
+23,João Miguel Freitas,luiz-gustavobarbosa@ig.com.br,RJ
+24,Maysa Moreira,silveiraesther@ig.com.br,RO
+25,João Lucas Moraes,ana-julia15@costa.org,PR
+26,Raul Fogaça,zmartins@ig.com.br,BA
+27,Dra. Melissa Cardoso,joao-pedropeixoto@ig.com.br,PB
+28,Maysa da Cunha,laurajesus@uol.com.br,PI
+29,Sabrina Farias,murilo36@rezende.br,PR
+30,Lucas Gabriel Nascimento,danielaribeiro@ig.com.br,MS
+31,Pedro Miguel das Neves,gomeseduarda@carvalho.net,MT
+32,Giovanna Caldeira,joao-vitorda-conceicao@gmail.com,PI
+33,Arthur Lopes,brunacardoso@peixoto.net,SP
+34,Emanuelly Campos,pnunes@hotmail.com,PI
+35,Miguel Lopes,pereiraleonardo@silveira.net,MG
+36,Pietro Sales,zcunha@souza.br,PB
+37,Melissa Ramos,cvieira@hotmail.com,MT
+38,Francisco Cunha,wferreira@hotmail.com,DF
+39,Vinicius Teixeira,rduarte@uol.com.br,RR
+40,Vinicius Pereira,lucas45@viana.com,ES
+41,Juliana Moreira,lucas-gabrielnogueira@da.br,RJ
+42,Daniel Silva,dpeixoto@hotmail.com,MG
+43,Ana Laura Barros,waragao@bol.com.br,ES
+44,Davi Lucas da Cruz,walmeida@yahoo.com.br,SP
+45,Lara Campos,vteixeira@ig.com.br,PA
+46,Isis Rezende,rdas-neves@rodrigues.com,AL
+47,Eloah Vieira,maria-clara62@uol.com.br,MT
+48,Rodrigo Correia,novaesjulia@cardoso.br,SC
+49,Maria Alice Fogaça,dda-mata@nascimento.br,PR
+50,Heloísa Correia,vmartins@freitas.br,RR
+51,Leandro da Cruz,ribeiroarthur@ig.com.br,SE
+52,Agatha Ferreira,levi10@farias.com,MG
+53,Sophie da Luz,fernandoribeiro@da.org,MG
+54,Ana Lívia Jesus,laracorreia@hotmail.com,RO
+55,Lívia da Paz,araujopedro-henrique@bol.com.br,SE
+56,João Lucas da Cruz,eda-paz@bol.com.br,TO
+57,Stephany Souza,jesusmaria-luiza@barbosa.br,RS
+58,Noah Martins,santoslivia@yahoo.com.br,BA
+59,Alexia Correia,grodrigues@moreira.br,PR
+60,Dr. Erick Caldeira,uda-luz@teixeira.br,AL
+61,Miguel Cardoso,ufogaca@hotmail.com,BA
+62,Thomas Rodrigues,ana-sophia37@mendes.com,PE
+63,Vitor Hugo Teixeira,joao-guilherme73@yahoo.com.br,RJ
+64,Cauê Ribeiro,matheus94@bol.com.br,MT
+65,Bárbara Ferreira,davi-luizduarte@rodrigues.net,AM
+66,Maria Pereira,yporto@gmail.com,PB
+67,Marcelo da Paz,leonardo63@moura.br,AM
+68,Sra. Juliana Moura,vvieira@yahoo.com.br,PE
+69,Manuela Porto,paulo43@gmail.com,PB
+70,Felipe das Neves,erick82@da.org,AC
+71,Joaquim Aragão,nicolasdias@da.org,SC
+72,Maria Clara Dias,marcos-viniciusbarbosa@vieira.com,BA
+73,Clarice Almeida,alvesisabella@yahoo.com.br,PA
+74,Thales Caldeira,vpires@hotmail.com,RS
+75,Bernardo Azevedo,barbara11@rodrigues.com,BA
+76,Sr. Luiz Gustavo Duarte,heitorjesus@farias.br,AP
+77,Raul Rodrigues,cporto@pereira.org,PR
+78,Marcelo Costela,da-rochaleticia@ferreira.net,SE
+79,Dra. Maria Julia Ribeiro,da-cruzalexandre@porto.br,GO
+80,Yuri Ribeiro,diasmurilo@ig.com.br,MT
+81,Caroline Castro,rcardoso@hotmail.com,RN
+82,Rafael Pinto,ana-carolinacorreia@bol.com.br,RR
+83,Dr. Juan Rezende,luiz-otavioda-conceicao@caldeira.org,MG
+84,Srta. Nicole Castro,dcosta@ig.com.br,RS
+85,João Mendes,gfogaca@bol.com.br,AP
+86,Felipe da Mota,mcardoso@gmail.com,MT
+87,Luiz Otávio Porto,kamilly40@gmail.com,RO
+88,Kevin da Mata,fogacaisabelly@da.br,PI
+89,Lucas Gabriel Farias,isispinto@ig.com.br,MG
+90,Leonardo Vieira,ribeirosamuel@uol.com.br,MT
+91,Benjamin Viana,maria-clara12@yahoo.com.br,RS
+92,Bryan Duarte,qgomes@uol.com.br,RR
+93,Juan Rodrigues,ucarvalho@martins.com,SP
+94,Clara Nunes,vianabeatriz@uol.com.br,PR
+95,Davi Luiz Nascimento,elisamoreira@pires.com,PI
+96,João Pedro Ferreira,gabriela24@rodrigues.com,AL
+97,Esther Pereira,marinada-cruz@vieira.com,RN
+98,Dra. Valentina Rodrigues,das-nevesenzo@uol.com.br,AP
+99,Diogo Gonçalves,ceciliagoncalves@peixoto.br,ES
+100,Benício Viana,ana-vitoriavieira@hotmail.com,RS

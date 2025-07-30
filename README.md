@@ -91,3 +91,34 @@ O projeto foi estruturado seguindo as melhores práticas de modelagem com **dbt*
 
 Essa estrutura permite organizar as transformações de forma clara e escalável, separando responsabilidades e facilitando a manutenção.
 A modelagem conduz os dados até o **mart analítico**, ponto final de entrega para **análises de negócio**.
+
+
+
+## Uso do SQLFluff no Projeto DBT
+
+Este projeto utiliza o **SQLFluff** para garantir a **qualidade e padronização** do código SQL dentro dos modelos do DBT.
+
+### O que é o SQLFluff?
+
+O **SQLFluff** é um **linter e formatter de SQL** que ajuda a manter o código organizado e consistente. Ele verifica o código SQL em busca de erros de sintaxe e problemas de estilo, aplicando as melhores práticas e garantindo que o código esteja formatado corretamente.
+
+### Objetivo do SQLFluff no Projeto
+
+- **Garantir consistência** no estilo de código SQL entre os modelos DBT.
+- **Identificar e corrigir problemas de sintaxe**, como nomes de tabelas e colunas mal formatados.
+- **Melhorar a legibilidade** do código SQL, aplicando padrões de indentação e outras boas práticas.
+- **Integrar com o DBT** para analisar os arquivos `.sql` que utilizam Jinja, como `{{ ref() }}` e `{{ source() }}`, garantindo que o linter saiba interpretar corretamente os templates do DBT.
+
+### Como o SQLFluff é utilizado
+
+- O SQLFluff é configurado com o **templater `dbt`**, que permite que ele entenda a sintaxe do DBT, incluindo `{{ ref() }}`, `{{ source() }}` e outras macros.
+- O linter verifica todos os modelos SQL dentro da pasta `models/` e aplica as regras de estilo configuradas.
+- **Correções automáticas** podem ser aplicadas com o comando `sqlfluff fix`, garantindo que o código esteja formatado corretamente antes de ser versionado.
+
+### Como rodar o SQLFluff
+
+Para rodar o SQLFluff no seu projeto DBT, use o seguinte comando:
+
+```bash
+poetry run sqlfluff lint models/
+```

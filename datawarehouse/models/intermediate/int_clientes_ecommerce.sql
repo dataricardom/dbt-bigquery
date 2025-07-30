@@ -1,9 +1,9 @@
-with clientes AS (
+with clientes as (
     select
-        CUSTOMER_NAME,
-        CUSTOMER_ID
-        FROM {{ref("stg_customers")}}
-        WHERE CUSTOMER_NAME LIKE 'A%'
+        customer_name,
+        customer_id
+    from {{ ref("stg_customers") }}
+    where customer_name like 'A%'
 )
 
 select * from clientes

@@ -1,0 +1,1001 @@
+pagamento_id,venda_id,metodo_pagamento,status
+5000,1000,Cartão de Crédito,Pago
+5001,1001,Pix,Pago
+5002,1002,Cartão de Crédito,Pago
+5003,1003,Pix,Pago
+5004,1004,Boleto,Pago
+5005,1005,Boleto,Pago
+5006,1006,Pix,Pago
+5007,1007,Cartão de Débito,Pago
+5008,1008,Cartão de Crédito,Pago
+5009,1009,Cartão de Débito,Pago
+5010,1010,Boleto,Pago
+5011,1011,Boleto,Pago
+5012,1012,Cartão de Crédito,Pago
+5013,1013,Pix,Pago
+5014,1014,Cartão de Débito,Pendente
+5015,1015,Cartão de Débito,Pago
+5016,1016,Cartão de Crédito,Pago
+5017,1017,Cartão de Crédito,Pago
+5018,1018,Pix,Pago
+5019,1019,Pix,Pago
+5020,1020,Cartão de Crédito,Pago
+5021,1021,Cartão de Crédito,Pago
+5022,1022,Pix,Pago
+5023,1023,Boleto,Pago
+5024,1024,Cartão de Crédito,Pendente
+5025,1025,Cartão de Crédito,Pago
+5026,1026,Pix,Pago
+5027,1027,Cartão de Crédito,Pago
+5028,1028,Boleto,Pendente
+5029,1029,Cartão de Crédito,Pago
+5030,1030,Boleto,Pago
+5031,1031,Cartão de Débito,Pago
+5032,1032,Pix,Pendente
+5033,1033,Boleto,Pago
+5034,1034,Cartão de Débito,Pago
+5035,1035,Pix,Pago
+5036,1036,Boleto,Pago
+5037,1037,Cartão de Débito,Pago
+5038,1038,Cartão de Crédito,Pago
+5039,1039,Boleto,Pago
+5040,1040,Pix,Pago
+5041,1041,Cartão de Crédito,Pago
+5042,1042,Pix,Pendente
+5043,1043,Boleto,Pago
+5044,1044,Boleto,Pago
+5045,1045,Pix,Pago
+5046,1046,Boleto,Pago
+5047,1047,Pix,Pago
+5048,1048,Pix,Pago
+5049,1049,Boleto,Pago
+5050,1050,Cartão de Crédito,Pago
+5051,1051,Cartão de Débito,Pago
+5052,1052,Cartão de Débito,Pago
+5053,1053,Boleto,Pago
+5054,1054,Cartão de Crédito,Pago
+5055,1055,Boleto,Pago
+5056,1056,Boleto,Pago
+5057,1057,Cartão de Crédito,Pago
+5058,1058,Pix,Pago
+5059,1059,Pix,Pago
+5060,1060,Cartão de Crédito,Pago
+5061,1061,Cartão de Crédito,Pago
+5062,1062,Boleto,Pendente
+5063,1063,Cartão de Crédito,Pago
+5064,1064,Pix,Pago
+5065,1065,Cartão de Débito,Pago
+5066,1066,Cartão de Débito,Pago
+5067,1067,Cartão de Débito,Pago
+5068,1068,Boleto,Pago
+5069,1069,Cartão de Débito,Pago
+5070,1070,Pix,Pago
+5071,1071,Boleto,Pago
+5072,1072,Cartão de Crédito,Pago
+5073,1073,Cartão de Débito,Pago
+5074,1074,Pix,Pago
+5075,1075,Cartão de Débito,Pago
+5076,1076,Cartão de Débito,Pago
+5077,1077,Pix,Pago
+5078,1078,Pix,Pago
+5079,1079,Boleto,Pago
+5080,1080,Pix,Pago
+5081,1081,Cartão de Débito,Pago
+5082,1082,Cartão de Débito,Pago
+5083,1083,Cartão de Débito,Pendente
+5084,1084,Boleto,Pago
+5085,1085,Pix,Pendente
+5086,1086,Cartão de Débito,Pago
+5087,1087,Boleto,Pago
+5088,1088,Pix,Pago
+5089,1089,Cartão de Débito,Pago
+5090,1090,Cartão de Débito,Pago
+5091,1091,Cartão de Crédito,Pendente
+5092,1092,Pix,Pendente
+5093,1093,Cartão de Débito,Pago
+5094,1094,Boleto,Pago
+5095,1095,Cartão de Crédito,Pago
+5096,1096,Pix,Pago
+5097,1097,Cartão de Débito,Pago
+5098,1098,Cartão de Débito,Pago
+5099,1099,Cartão de Débito,Pago
+5100,1100,Pix,Pago
+5101,1101,Pix,Pago
+5102,1102,Pix,Pago
+5103,1103,Boleto,Pago
+5104,1104,Cartão de Crédito,Pago
+5105,1105,Cartão de Débito,Pago
+5106,1106,Boleto,Pago
+5107,1107,Cartão de Crédito,Pago
+5108,1108,Pix,Pendente
+5109,1109,Boleto,Pendente
+5110,1110,Pix,Pago
+5111,1111,Cartão de Crédito,Pago
+5112,1112,Cartão de Débito,Pago
+5113,1113,Pix,Pago
+5114,1114,Cartão de Débito,Pago
+5115,1115,Cartão de Crédito,Pago
+5116,1116,Boleto,Pago
+5117,1117,Cartão de Crédito,Pago
+5118,1118,Cartão de Débito,Pago
+5119,1119,Boleto,Pago
+5120,1120,Cartão de Débito,Pago
+5121,1121,Boleto,Pago
+5122,1122,Pix,Pago
+5123,1123,Pix,Pago
+5124,1124,Boleto,Pago
+5125,1125,Cartão de Crédito,Pago
+5126,1126,Boleto,Pago
+5127,1127,Cartão de Débito,Pendente
+5128,1128,Cartão de Débito,Pago
+5129,1129,Cartão de Débito,Pago
+5130,1130,Pix,Pendente
+5131,1131,Cartão de Débito,Pago
+5132,1132,Cartão de Débito,Pago
+5133,1133,Pix,Pago
+5134,1134,Cartão de Débito,Pago
+5135,1135,Pix,Pago
+5136,1136,Cartão de Débito,Pago
+5137,1137,Cartão de Crédito,Pago
+5138,1138,Cartão de Débito,Pago
+5139,1139,Cartão de Débito,Pago
+5140,1140,Boleto,Pago
+5141,1141,Pix,Pago
+5142,1142,Boleto,Pago
+5143,1143,Pix,Pago
+5144,1144,Boleto,Pago
+5145,1145,Pix,Pago
+5146,1146,Boleto,Pendente
+5147,1147,Cartão de Crédito,Pago
+5148,1148,Boleto,Pago
+5149,1149,Boleto,Pago
+5150,1150,Boleto,Pago
+5151,1151,Pix,Pago
+5152,1152,Cartão de Débito,Pago
+5153,1153,Pix,Pago
+5154,1154,Cartão de Débito,Pago
+5155,1155,Pix,Pago
+5156,1156,Cartão de Débito,Pago
+5157,1157,Pix,Pago
+5158,1158,Boleto,Pendente
+5159,1159,Pix,Pago
+5160,1160,Pix,Pendente
+5161,1161,Pix,Pago
+5162,1162,Pix,Pago
+5163,1163,Pix,Pago
+5164,1164,Cartão de Crédito,Pago
+5165,1165,Cartão de Débito,Pago
+5166,1166,Boleto,Pago
+5167,1167,Boleto,Pago
+5168,1168,Pix,Pago
+5169,1169,Pix,Pago
+5170,1170,Cartão de Crédito,Pago
+5171,1171,Boleto,Pago
+5172,1172,Boleto,Pago
+5173,1173,Cartão de Crédito,Pago
+5174,1174,Pix,Pago
+5175,1175,Pix,Pago
+5176,1176,Cartão de Débito,Pago
+5177,1177,Cartão de Crédito,Pago
+5178,1178,Boleto,Pendente
+5179,1179,Cartão de Crédito,Pago
+5180,1180,Cartão de Crédito,Pago
+5181,1181,Cartão de Débito,Pago
+5182,1182,Boleto,Pendente
+5183,1183,Pix,Pago
+5184,1184,Cartão de Débito,Pago
+5185,1185,Cartão de Débito,Pago
+5186,1186,Boleto,Pago
+5187,1187,Cartão de Débito,Pago
+5188,1188,Boleto,Pago
+5189,1189,Boleto,Pendente
+5190,1190,Cartão de Crédito,Pago
+5191,1191,Pix,Pendente
+5192,1192,Boleto,Pendente
+5193,1193,Cartão de Débito,Pago
+5194,1194,Cartão de Débito,Pago
+5195,1195,Boleto,Pago
+5196,1196,Pix,Pago
+5197,1197,Boleto,Pago
+5198,1198,Pix,Pago
+5199,1199,Cartão de Crédito,Pago
+5200,1200,Boleto,Pago
+5201,1201,Boleto,Pago
+5202,1202,Pix,Pago
+5203,1203,Cartão de Crédito,Pendente
+5204,1204,Cartão de Crédito,Pago
+5205,1205,Pix,Pago
+5206,1206,Boleto,Pendente
+5207,1207,Pix,Pago
+5208,1208,Pix,Pago
+5209,1209,Pix,Pago
+5210,1210,Boleto,Pago
+5211,1211,Cartão de Débito,Pago
+5212,1212,Pix,Pago
+5213,1213,Cartão de Crédito,Pago
+5214,1214,Pix,Pago
+5215,1215,Cartão de Débito,Pago
+5216,1216,Cartão de Crédito,Pendente
+5217,1217,Pix,Pago
+5218,1218,Cartão de Débito,Pendente
+5219,1219,Boleto,Pago
+5220,1220,Boleto,Pago
+5221,1221,Boleto,Pago
+5222,1222,Boleto,Pago
+5223,1223,Cartão de Débito,Pago
+5224,1224,Boleto,Pago
+5225,1225,Cartão de Débito,Pago
+5226,1226,Cartão de Crédito,Pago
+5227,1227,Cartão de Crédito,Pago
+5228,1228,Cartão de Crédito,Pago
+5229,1229,Cartão de Débito,Pago
+5230,1230,Pix,Pago
+5231,1231,Boleto,Pago
+5232,1232,Pix,Pago
+5233,1233,Pix,Pago
+5234,1234,Pix,Pago
+5235,1235,Cartão de Crédito,Pago
+5236,1236,Boleto,Pendente
+5237,1237,Cartão de Débito,Pago
+5238,1238,Cartão de Débito,Pago
+5239,1239,Cartão de Débito,Pago
+5240,1240,Cartão de Crédito,Pago
+5241,1241,Cartão de Débito,Pago
+5242,1242,Cartão de Débito,Pago
+5243,1243,Cartão de Débito,Pendente
+5244,1244,Pix,Pendente
+5245,1245,Cartão de Crédito,Pendente
+5246,1246,Cartão de Débito,Pago
+5247,1247,Pix,Pago
+5248,1248,Pix,Pago
+5249,1249,Cartão de Débito,Pago
+5250,1250,Cartão de Crédito,Pago
+5251,1251,Boleto,Pago
+5252,1252,Cartão de Crédito,Pago
+5253,1253,Boleto,Pago
+5254,1254,Cartão de Débito,Pago
+5255,1255,Boleto,Pago
+5256,1256,Cartão de Débito,Pago
+5257,1257,Cartão de Crédito,Pago
+5258,1258,Cartão de Crédito,Pago
+5259,1259,Cartão de Crédito,Pendente
+5260,1260,Boleto,Pago
+5261,1261,Pix,Pago
+5262,1262,Cartão de Débito,Pago
+5263,1263,Cartão de Crédito,Pago
+5264,1264,Cartão de Crédito,Pago
+5265,1265,Cartão de Débito,Pago
+5266,1266,Cartão de Crédito,Pendente
+5267,1267,Pix,Pago
+5268,1268,Pix,Pago
+5269,1269,Pix,Pago
+5270,1270,Cartão de Débito,Pago
+5271,1271,Boleto,Pago
+5272,1272,Cartão de Débito,Pendente
+5273,1273,Cartão de Débito,Pago
+5274,1274,Pix,Pago
+5275,1275,Cartão de Crédito,Pago
+5276,1276,Pix,Pago
+5277,1277,Cartão de Débito,Pago
+5278,1278,Cartão de Crédito,Pendente
+5279,1279,Cartão de Crédito,Pago
+5280,1280,Cartão de Crédito,Pago
+5281,1281,Cartão de Débito,Pago
+5282,1282,Cartão de Débito,Pago
+5283,1283,Cartão de Débito,Pago
+5284,1284,Boleto,Pago
+5285,1285,Boleto,Pago
+5286,1286,Cartão de Débito,Pago
+5287,1287,Boleto,Pago
+5288,1288,Cartão de Crédito,Pago
+5289,1289,Cartão de Crédito,Pago
+5290,1290,Pix,Pago
+5291,1291,Cartão de Crédito,Pago
+5292,1292,Cartão de Crédito,Pago
+5293,1293,Boleto,Pago
+5294,1294,Cartão de Débito,Pago
+5295,1295,Boleto,Pago
+5296,1296,Cartão de Crédito,Pago
+5297,1297,Cartão de Crédito,Pago
+5298,1298,Cartão de Crédito,Pago
+5299,1299,Pix,Pago
+5300,1300,Cartão de Débito,Pago
+5301,1301,Cartão de Crédito,Pago
+5302,1302,Pix,Pago
+5303,1303,Cartão de Débito,Pago
+5304,1304,Boleto,Pago
+5305,1305,Cartão de Crédito,Pago
+5306,1306,Cartão de Crédito,Pago
+5307,1307,Cartão de Crédito,Pago
+5308,1308,Cartão de Crédito,Pendente
+5309,1309,Cartão de Crédito,Pendente
+5310,1310,Boleto,Pago
+5311,1311,Boleto,Pago
+5312,1312,Pix,Pago
+5313,1313,Cartão de Débito,Pago
+5314,1314,Boleto,Pago
+5315,1315,Cartão de Débito,Pago
+5316,1316,Pix,Pendente
+5317,1317,Cartão de Débito,Pago
+5318,1318,Cartão de Débito,Pago
+5319,1319,Pix,Pago
+5320,1320,Boleto,Pago
+5321,1321,Cartão de Crédito,Pendente
+5322,1322,Cartão de Crédito,Pago
+5323,1323,Pix,Pago
+5324,1324,Boleto,Pago
+5325,1325,Cartão de Débito,Pago
+5326,1326,Cartão de Crédito,Pendente
+5327,1327,Cartão de Débito,Pago
+5328,1328,Cartão de Crédito,Pago
+5329,1329,Cartão de Débito,Pendente
+5330,1330,Pix,Pago
+5331,1331,Boleto,Pago
+5332,1332,Cartão de Crédito,Pago
+5333,1333,Cartão de Débito,Pago
+5334,1334,Pix,Pago
+5335,1335,Cartão de Crédito,Pago
+5336,1336,Cartão de Débito,Pago
+5337,1337,Boleto,Pendente
+5338,1338,Pix,Pago
+5339,1339,Boleto,Pago
+5340,1340,Boleto,Pago
+5341,1341,Cartão de Débito,Pago
+5342,1342,Cartão de Crédito,Pago
+5343,1343,Cartão de Débito,Pago
+5344,1344,Boleto,Pago
+5345,1345,Boleto,Pendente
+5346,1346,Cartão de Débito,Pago
+5347,1347,Pix,Pago
+5348,1348,Cartão de Crédito,Pago
+5349,1349,Boleto,Pago
+5350,1350,Cartão de Crédito,Pago
+5351,1351,Boleto,Pago
+5352,1352,Cartão de Débito,Pendente
+5353,1353,Pix,Pago
+5354,1354,Boleto,Pago
+5355,1355,Cartão de Débito,Pago
+5356,1356,Pix,Pendente
+5357,1357,Cartão de Débito,Pago
+5358,1358,Cartão de Crédito,Pago
+5359,1359,Cartão de Débito,Pago
+5360,1360,Cartão de Crédito,Pago
+5361,1361,Cartão de Débito,Pago
+5362,1362,Pix,Pago
+5363,1363,Cartão de Crédito,Pago
+5364,1364,Boleto,Pendente
+5365,1365,Cartão de Crédito,Pago
+5366,1366,Cartão de Crédito,Pago
+5367,1367,Pix,Pago
+5368,1368,Cartão de Crédito,Pendente
+5369,1369,Boleto,Pago
+5370,1370,Pix,Pago
+5371,1371,Pix,Pago
+5372,1372,Pix,Pago
+5373,1373,Pix,Pago
+5374,1374,Cartão de Débito,Pago
+5375,1375,Cartão de Débito,Pago
+5376,1376,Pix,Pendente
+5377,1377,Cartão de Crédito,Pago
+5378,1378,Cartão de Débito,Pago
+5379,1379,Pix,Pago
+5380,1380,Pix,Pago
+5381,1381,Boleto,Pago
+5382,1382,Pix,Pago
+5383,1383,Cartão de Débito,Pago
+5384,1384,Cartão de Crédito,Pendente
+5385,1385,Boleto,Pago
+5386,1386,Pix,Pago
+5387,1387,Boleto,Pago
+5388,1388,Cartão de Débito,Pago
+5389,1389,Cartão de Débito,Pago
+5390,1390,Boleto,Pago
+5391,1391,Pix,Pago
+5392,1392,Cartão de Débito,Pendente
+5393,1393,Cartão de Crédito,Pago
+5394,1394,Cartão de Débito,Pago
+5395,1395,Cartão de Crédito,Pago
+5396,1396,Cartão de Débito,Pago
+5397,1397,Pix,Pago
+5398,1398,Cartão de Débito,Pago
+5399,1399,Boleto,Pago
+5400,1400,Boleto,Pendente
+5401,1401,Cartão de Crédito,Pago
+5402,1402,Boleto,Pendente
+5403,1403,Cartão de Débito,Pago
+5404,1404,Cartão de Débito,Pago
+5405,1405,Pix,Pago
+5406,1406,Cartão de Débito,Pago
+5407,1407,Cartão de Crédito,Pago
+5408,1408,Cartão de Débito,Pago
+5409,1409,Pix,Pago
+5410,1410,Cartão de Débito,Pago
+5411,1411,Boleto,Pago
+5412,1412,Boleto,Pago
+5413,1413,Cartão de Débito,Pago
+5414,1414,Cartão de Débito,Pago
+5415,1415,Boleto,Pendente
+5416,1416,Boleto,Pago
+5417,1417,Pix,Pago
+5418,1418,Boleto,Pago
+5419,1419,Cartão de Débito,Pendente
+5420,1420,Pix,Pago
+5421,1421,Pix,Pago
+5422,1422,Cartão de Débito,Pago
+5423,1423,Boleto,Pago
+5424,1424,Cartão de Débito,Pago
+5425,1425,Boleto,Pago
+5426,1426,Cartão de Crédito,Pendente
+5427,1427,Pix,Pendente
+5428,1428,Cartão de Crédito,Pago
+5429,1429,Boleto,Pendente
+5430,1430,Cartão de Débito,Pago
+5431,1431,Cartão de Crédito,Pendente
+5432,1432,Cartão de Débito,Pago
+5433,1433,Cartão de Crédito,Pago
+5434,1434,Boleto,Pago
+5435,1435,Cartão de Crédito,Pago
+5436,1436,Boleto,Pago
+5437,1437,Boleto,Pago
+5438,1438,Cartão de Crédito,Pago
+5439,1439,Cartão de Crédito,Pago
+5440,1440,Cartão de Crédito,Pago
+5441,1441,Pix,Pendente
+5442,1442,Pix,Pago
+5443,1443,Pix,Pago
+5444,1444,Pix,Pago
+5445,1445,Pix,Pago
+5446,1446,Cartão de Débito,Pago
+5447,1447,Cartão de Crédito,Pago
+5448,1448,Cartão de Crédito,Pago
+5449,1449,Boleto,Pago
+5450,1450,Cartão de Crédito,Pago
+5451,1451,Cartão de Débito,Pendente
+5452,1452,Cartão de Débito,Pago
+5453,1453,Cartão de Crédito,Pago
+5454,1454,Pix,Pago
+5455,1455,Pix,Pendente
+5456,1456,Cartão de Débito,Pago
+5457,1457,Pix,Pago
+5458,1458,Cartão de Crédito,Pago
+5459,1459,Cartão de Débito,Pago
+5460,1460,Boleto,Pago
+5461,1461,Boleto,Pago
+5462,1462,Cartão de Crédito,Pago
+5463,1463,Pix,Pago
+5464,1464,Boleto,Pago
+5465,1465,Cartão de Crédito,Pago
+5466,1466,Pix,Pago
+5467,1467,Cartão de Crédito,Pago
+5468,1468,Boleto,Pendente
+5469,1469,Pix,Pago
+5470,1470,Boleto,Pago
+5471,1471,Pix,Pago
+5472,1472,Boleto,Pago
+5473,1473,Pix,Pago
+5474,1474,Pix,Pago
+5475,1475,Pix,Pago
+5476,1476,Pix,Pago
+5477,1477,Cartão de Débito,Pago
+5478,1478,Cartão de Crédito,Pago
+5479,1479,Cartão de Crédito,Pago
+5480,1480,Boleto,Pago
+5481,1481,Pix,Pendente
+5482,1482,Cartão de Débito,Pago
+5483,1483,Pix,Pago
+5484,1484,Pix,Pendente
+5485,1485,Pix,Pago
+5486,1486,Cartão de Débito,Pago
+5487,1487,Cartão de Crédito,Pago
+5488,1488,Cartão de Crédito,Pago
+5489,1489,Cartão de Débito,Pago
+5490,1490,Pix,Pago
+5491,1491,Cartão de Débito,Pendente
+5492,1492,Cartão de Débito,Pago
+5493,1493,Pix,Pago
+5494,1494,Pix,Pago
+5495,1495,Cartão de Débito,Pago
+5496,1496,Boleto,Pago
+5497,1497,Cartão de Crédito,Pago
+5498,1498,Pix,Pago
+5499,1499,Boleto,Pago
+5500,1500,Cartão de Crédito,Pago
+5501,1501,Pix,Pago
+5502,1502,Cartão de Débito,Pago
+5503,1503,Cartão de Crédito,Pendente
+5504,1504,Cartão de Crédito,Pago
+5505,1505,Boleto,Pendente
+5506,1506,Boleto,Pago
+5507,1507,Pix,Pago
+5508,1508,Pix,Pago
+5509,1509,Boleto,Pago
+5510,1510,Pix,Pago
+5511,1511,Boleto,Pago
+5512,1512,Cartão de Crédito,Pago
+5513,1513,Boleto,Pendente
+5514,1514,Cartão de Crédito,Pago
+5515,1515,Boleto,Pago
+5516,1516,Pix,Pendente
+5517,1517,Cartão de Crédito,Pendente
+5518,1518,Cartão de Débito,Pago
+5519,1519,Pix,Pago
+5520,1520,Boleto,Pago
+5521,1521,Pix,Pago
+5522,1522,Cartão de Crédito,Pago
+5523,1523,Cartão de Débito,Pendente
+5524,1524,Pix,Pago
+5525,1525,Boleto,Pago
+5526,1526,Cartão de Débito,Pago
+5527,1527,Pix,Pago
+5528,1528,Cartão de Crédito,Pago
+5529,1529,Cartão de Débito,Pago
+5530,1530,Cartão de Débito,Pago
+5531,1531,Cartão de Crédito,Pendente
+5532,1532,Cartão de Débito,Pago
+5533,1533,Pix,Pago
+5534,1534,Cartão de Crédito,Pago
+5535,1535,Cartão de Débito,Pago
+5536,1536,Pix,Pago
+5537,1537,Pix,Pago
+5538,1538,Boleto,Pago
+5539,1539,Boleto,Pago
+5540,1540,Cartão de Crédito,Pago
+5541,1541,Pix,Pago
+5542,1542,Cartão de Débito,Pendente
+5543,1543,Cartão de Débito,Pago
+5544,1544,Boleto,Pago
+5545,1545,Cartão de Crédito,Pendente
+5546,1546,Cartão de Crédito,Pago
+5547,1547,Cartão de Débito,Pago
+5548,1548,Cartão de Crédito,Pago
+5549,1549,Boleto,Pago
+5550,1550,Boleto,Pago
+5551,1551,Pix,Pendente
+5552,1552,Pix,Pago
+5553,1553,Pix,Pago
+5554,1554,Pix,Pago
+5555,1555,Cartão de Crédito,Pago
+5556,1556,Boleto,Pago
+5557,1557,Boleto,Pago
+5558,1558,Cartão de Crédito,Pago
+5559,1559,Boleto,Pendente
+5560,1560,Boleto,Pendente
+5561,1561,Boleto,Pago
+5562,1562,Boleto,Pago
+5563,1563,Cartão de Débito,Pendente
+5564,1564,Pix,Pago
+5565,1565,Cartão de Débito,Pago
+5566,1566,Pix,Pendente
+5567,1567,Boleto,Pendente
+5568,1568,Pix,Pago
+5569,1569,Cartão de Crédito,Pago
+5570,1570,Cartão de Débito,Pago
+5571,1571,Cartão de Débito,Pago
+5572,1572,Pix,Pendente
+5573,1573,Boleto,Pago
+5574,1574,Cartão de Débito,Pago
+5575,1575,Cartão de Débito,Pago
+5576,1576,Pix,Pago
+5577,1577,Boleto,Pago
+5578,1578,Cartão de Débito,Pendente
+5579,1579,Boleto,Pago
+5580,1580,Cartão de Débito,Pago
+5581,1581,Boleto,Pago
+5582,1582,Boleto,Pago
+5583,1583,Boleto,Pago
+5584,1584,Cartão de Crédito,Pago
+5585,1585,Cartão de Crédito,Pago
+5586,1586,Cartão de Débito,Pago
+5587,1587,Pix,Pago
+5588,1588,Pix,Pago
+5589,1589,Cartão de Débito,Pago
+5590,1590,Cartão de Débito,Pago
+5591,1591,Pix,Pago
+5592,1592,Cartão de Débito,Pago
+5593,1593,Pix,Pago
+5594,1594,Cartão de Débito,Pago
+5595,1595,Cartão de Crédito,Pago
+5596,1596,Boleto,Pago
+5597,1597,Cartão de Débito,Pago
+5598,1598,Cartão de Débito,Pago
+5599,1599,Cartão de Crédito,Pago
+5600,1600,Pix,Pago
+5601,1601,Pix,Pago
+5602,1602,Pix,Pago
+5603,1603,Cartão de Crédito,Pago
+5604,1604,Boleto,Pendente
+5605,1605,Boleto,Pago
+5606,1606,Cartão de Débito,Pago
+5607,1607,Cartão de Crédito,Pago
+5608,1608,Cartão de Débito,Pago
+5609,1609,Boleto,Pago
+5610,1610,Cartão de Crédito,Pago
+5611,1611,Boleto,Pago
+5612,1612,Cartão de Crédito,Pago
+5613,1613,Boleto,Pago
+5614,1614,Boleto,Pago
+5615,1615,Cartão de Débito,Pago
+5616,1616,Pix,Pago
+5617,1617,Cartão de Débito,Pago
+5618,1618,Pix,Pago
+5619,1619,Cartão de Débito,Pago
+5620,1620,Cartão de Débito,Pago
+5621,1621,Cartão de Crédito,Pago
+5622,1622,Cartão de Débito,Pago
+5623,1623,Cartão de Crédito,Pago
+5624,1624,Boleto,Pago
+5625,1625,Cartão de Crédito,Pago
+5626,1626,Cartão de Crédito,Pago
+5627,1627,Cartão de Crédito,Pago
+5628,1628,Cartão de Crédito,Pago
+5629,1629,Pix,Pago
+5630,1630,Boleto,Pago
+5631,1631,Cartão de Débito,Pago
+5632,1632,Cartão de Crédito,Pago
+5633,1633,Cartão de Crédito,Pago
+5634,1634,Boleto,Pago
+5635,1635,Cartão de Débito,Pago
+5636,1636,Cartão de Crédito,Pago
+5637,1637,Cartão de Crédito,Pago
+5638,1638,Cartão de Crédito,Pago
+5639,1639,Cartão de Débito,Pago
+5640,1640,Cartão de Débito,Pago
+5641,1641,Pix,Pago
+5642,1642,Cartão de Crédito,Pago
+5643,1643,Cartão de Débito,Pago
+5644,1644,Pix,Pago
+5645,1645,Cartão de Crédito,Pago
+5646,1646,Cartão de Crédito,Pendente
+5647,1647,Pix,Pago
+5648,1648,Cartão de Crédito,Pago
+5649,1649,Cartão de Crédito,Pago
+5650,1650,Cartão de Crédito,Pendente
+5651,1651,Cartão de Débito,Pago
+5652,1652,Boleto,Pago
+5653,1653,Cartão de Crédito,Pago
+5654,1654,Cartão de Débito,Pendente
+5655,1655,Boleto,Pago
+5656,1656,Boleto,Pago
+5657,1657,Cartão de Crédito,Pago
+5658,1658,Cartão de Crédito,Pago
+5659,1659,Cartão de Débito,Pago
+5660,1660,Cartão de Débito,Pago
+5661,1661,Pix,Pendente
+5662,1662,Boleto,Pendente
+5663,1663,Cartão de Crédito,Pago
+5664,1664,Boleto,Pago
+5665,1665,Pix,Pago
+5666,1666,Pix,Pago
+5667,1667,Pix,Pago
+5668,1668,Pix,Pago
+5669,1669,Cartão de Débito,Pago
+5670,1670,Cartão de Crédito,Pendente
+5671,1671,Cartão de Débito,Pago
+5672,1672,Pix,Pago
+5673,1673,Pix,Pago
+5674,1674,Pix,Pago
+5675,1675,Cartão de Crédito,Pendente
+5676,1676,Cartão de Débito,Pago
+5677,1677,Pix,Pago
+5678,1678,Pix,Pago
+5679,1679,Cartão de Crédito,Pago
+5680,1680,Boleto,Pago
+5681,1681,Cartão de Débito,Pendente
+5682,1682,Boleto,Pago
+5683,1683,Cartão de Crédito,Pago
+5684,1684,Cartão de Débito,Pago
+5685,1685,Pix,Pago
+5686,1686,Cartão de Crédito,Pago
+5687,1687,Cartão de Débito,Pago
+5688,1688,Pix,Pendente
+5689,1689,Cartão de Débito,Pago
+5690,1690,Pix,Pago
+5691,1691,Boleto,Pendente
+5692,1692,Cartão de Crédito,Pago
+5693,1693,Pix,Pago
+5694,1694,Cartão de Débito,Pago
+5695,1695,Pix,Pago
+5696,1696,Pix,Pago
+5697,1697,Pix,Pago
+5698,1698,Cartão de Crédito,Pendente
+5699,1699,Cartão de Crédito,Pago
+5700,1700,Pix,Pago
+5701,1701,Cartão de Crédito,Pago
+5702,1702,Boleto,Pendente
+5703,1703,Cartão de Débito,Pago
+5704,1704,Pix,Pendente
+5705,1705,Boleto,Pago
+5706,1706,Cartão de Débito,Pago
+5707,1707,Boleto,Pago
+5708,1708,Pix,Pago
+5709,1709,Boleto,Pago
+5710,1710,Cartão de Crédito,Pago
+5711,1711,Cartão de Débito,Pago
+5712,1712,Boleto,Pago
+5713,1713,Boleto,Pago
+5714,1714,Boleto,Pago
+5715,1715,Cartão de Crédito,Pendente
+5716,1716,Pix,Pago
+5717,1717,Pix,Pago
+5718,1718,Cartão de Débito,Pago
+5719,1719,Pix,Pago
+5720,1720,Cartão de Débito,Pago
+5721,1721,Cartão de Crédito,Pago
+5722,1722,Cartão de Crédito,Pendente
+5723,1723,Cartão de Crédito,Pago
+5724,1724,Pix,Pago
+5725,1725,Cartão de Débito,Pendente
+5726,1726,Cartão de Crédito,Pago
+5727,1727,Cartão de Crédito,Pago
+5728,1728,Pix,Pago
+5729,1729,Pix,Pendente
+5730,1730,Cartão de Débito,Pago
+5731,1731,Cartão de Débito,Pago
+5732,1732,Cartão de Débito,Pago
+5733,1733,Boleto,Pago
+5734,1734,Pix,Pago
+5735,1735,Cartão de Débito,Pago
+5736,1736,Boleto,Pendente
+5737,1737,Pix,Pago
+5738,1738,Cartão de Débito,Pago
+5739,1739,Boleto,Pago
+5740,1740,Boleto,Pago
+5741,1741,Cartão de Débito,Pago
+5742,1742,Boleto,Pago
+5743,1743,Cartão de Débito,Pendente
+5744,1744,Cartão de Débito,Pago
+5745,1745,Boleto,Pago
+5746,1746,Boleto,Pago
+5747,1747,Pix,Pago
+5748,1748,Boleto,Pendente
+5749,1749,Pix,Pago
+5750,1750,Cartão de Crédito,Pago
+5751,1751,Cartão de Débito,Pago
+5752,1752,Cartão de Crédito,Pago
+5753,1753,Cartão de Débito,Pendente
+5754,1754,Boleto,Pago
+5755,1755,Cartão de Crédito,Pago
+5756,1756,Boleto,Pago
+5757,1757,Cartão de Crédito,Pago
+5758,1758,Pix,Pago
+5759,1759,Cartão de Débito,Pago
+5760,1760,Pix,Pago
+5761,1761,Boleto,Pago
+5762,1762,Cartão de Crédito,Pendente
+5763,1763,Pix,Pago
+5764,1764,Boleto,Pendente
+5765,1765,Cartão de Crédito,Pago
+5766,1766,Boleto,Pago
+5767,1767,Pix,Pago
+5768,1768,Boleto,Pago
+5769,1769,Cartão de Débito,Pago
+5770,1770,Cartão de Débito,Pago
+5771,1771,Cartão de Débito,Pendente
+5772,1772,Cartão de Crédito,Pago
+5773,1773,Cartão de Débito,Pago
+5774,1774,Cartão de Crédito,Pago
+5775,1775,Pix,Pago
+5776,1776,Boleto,Pago
+5777,1777,Boleto,Pago
+5778,1778,Pix,Pago
+5779,1779,Cartão de Débito,Pago
+5780,1780,Boleto,Pago
+5781,1781,Boleto,Pago
+5782,1782,Boleto,Pago
+5783,1783,Boleto,Pago
+5784,1784,Cartão de Débito,Pago
+5785,1785,Cartão de Débito,Pago
+5786,1786,Pix,Pago
+5787,1787,Cartão de Débito,Pendente
+5788,1788,Boleto,Pago
+5789,1789,Boleto,Pago
+5790,1790,Pix,Pendente
+5791,1791,Cartão de Crédito,Pago
+5792,1792,Boleto,Pago
+5793,1793,Cartão de Débito,Pendente
+5794,1794,Boleto,Pago
+5795,1795,Cartão de Crédito,Pago
+5796,1796,Boleto,Pago
+5797,1797,Boleto,Pago
+5798,1798,Pix,Pago
+5799,1799,Boleto,Pendente
+5800,1800,Cartão de Débito,Pago
+5801,1801,Cartão de Crédito,Pendente
+5802,1802,Cartão de Débito,Pendente
+5803,1803,Cartão de Crédito,Pago
+5804,1804,Cartão de Débito,Pago
+5805,1805,Cartão de Débito,Pendente
+5806,1806,Pix,Pago
+5807,1807,Cartão de Débito,Pago
+5808,1808,Pix,Pago
+5809,1809,Cartão de Crédito,Pago
+5810,1810,Cartão de Débito,Pago
+5811,1811,Boleto,Pago
+5812,1812,Cartão de Crédito,Pago
+5813,1813,Boleto,Pago
+5814,1814,Cartão de Débito,Pendente
+5815,1815,Pix,Pago
+5816,1816,Pix,Pago
+5817,1817,Cartão de Crédito,Pago
+5818,1818,Cartão de Crédito,Pago
+5819,1819,Cartão de Crédito,Pago
+5820,1820,Cartão de Crédito,Pago
+5821,1821,Cartão de Crédito,Pago
+5822,1822,Cartão de Crédito,Pago
+5823,1823,Boleto,Pago
+5824,1824,Boleto,Pago
+5825,1825,Pix,Pago
+5826,1826,Cartão de Crédito,Pago
+5827,1827,Cartão de Débito,Pago
+5828,1828,Pix,Pago
+5829,1829,Boleto,Pendente
+5830,1830,Cartão de Débito,Pago
+5831,1831,Boleto,Pendente
+5832,1832,Cartão de Crédito,Pago
+5833,1833,Cartão de Débito,Pago
+5834,1834,Cartão de Crédito,Pago
+5835,1835,Pix,Pago
+5836,1836,Cartão de Crédito,Pago
+5837,1837,Boleto,Pago
+5838,1838,Cartão de Débito,Pago
+5839,1839,Cartão de Débito,Pago
+5840,1840,Boleto,Pago
+5841,1841,Cartão de Débito,Pago
+5842,1842,Cartão de Crédito,Pendente
+5843,1843,Pix,Pago
+5844,1844,Cartão de Crédito,Pago
+5845,1845,Cartão de Crédito,Pago
+5846,1846,Cartão de Débito,Pago
+5847,1847,Pix,Pendente
+5848,1848,Boleto,Pago
+5849,1849,Cartão de Débito,Pago
+5850,1850,Cartão de Crédito,Pendente
+5851,1851,Boleto,Pago
+5852,1852,Boleto,Pago
+5853,1853,Boleto,Pago
+5854,1854,Cartão de Débito,Pago
+5855,1855,Boleto,Pago
+5856,1856,Pix,Pago
+5857,1857,Boleto,Pago
+5858,1858,Cartão de Débito,Pago
+5859,1859,Pix,Pago
+5860,1860,Boleto,Pago
+5861,1861,Boleto,Pendente
+5862,1862,Pix,Pago
+5863,1863,Boleto,Pago
+5864,1864,Cartão de Crédito,Pago
+5865,1865,Cartão de Crédito,Pago
+5866,1866,Cartão de Débito,Pendente
+5867,1867,Cartão de Débito,Pago
+5868,1868,Cartão de Crédito,Pago
+5869,1869,Cartão de Crédito,Pago
+5870,1870,Cartão de Crédito,Pago
+5871,1871,Pix,Pago
+5872,1872,Cartão de Débito,Pendente
+5873,1873,Boleto,Pago
+5874,1874,Pix,Pago
+5875,1875,Cartão de Débito,Pago
+5876,1876,Cartão de Débito,Pendente
+5877,1877,Boleto,Pago
+5878,1878,Cartão de Crédito,Pago
+5879,1879,Cartão de Crédito,Pago
+5880,1880,Cartão de Débito,Pago
+5881,1881,Cartão de Débito,Pago
+5882,1882,Cartão de Débito,Pago
+5883,1883,Cartão de Débito,Pago
+5884,1884,Pix,Pendente
+5885,1885,Cartão de Crédito,Pago
+5886,1886,Pix,Pago
+5887,1887,Boleto,Pago
+5888,1888,Cartão de Crédito,Pago
+5889,1889,Boleto,Pago
+5890,1890,Pix,Pendente
+5891,1891,Cartão de Crédito,Pendente
+5892,1892,Boleto,Pago
+5893,1893,Boleto,Pago
+5894,1894,Boleto,Pago
+5895,1895,Cartão de Débito,Pago
+5896,1896,Pix,Pago
+5897,1897,Cartão de Crédito,Pago
+5898,1898,Pix,Pendente
+5899,1899,Cartão de Débito,Pago
+5900,1900,Boleto,Pago
+5901,1901,Boleto,Pago
+5902,1902,Pix,Pendente
+5903,1903,Cartão de Crédito,Pago
+5904,1904,Cartão de Débito,Pago
+5905,1905,Cartão de Débito,Pago
+5906,1906,Boleto,Pago
+5907,1907,Cartão de Débito,Pago
+5908,1908,Cartão de Crédito,Pago
+5909,1909,Pix,Pago
+5910,1910,Cartão de Crédito,Pago
+5911,1911,Pix,Pago
+5912,1912,Cartão de Débito,Pago
+5913,1913,Pix,Pago
+5914,1914,Cartão de Crédito,Pago
+5915,1915,Cartão de Débito,Pago
+5916,1916,Cartão de Crédito,Pendente
+5917,1917,Cartão de Débito,Pago
+5918,1918,Boleto,Pendente
+5919,1919,Pix,Pago
+5920,1920,Cartão de Crédito,Pendente
+5921,1921,Boleto,Pendente
+5922,1922,Cartão de Débito,Pago
+5923,1923,Pix,Pendente
+5924,1924,Cartão de Débito,Pago
+5925,1925,Pix,Pago
+5926,1926,Cartão de Débito,Pago
+5927,1927,Boleto,Pago
+5928,1928,Boleto,Pendente
+5929,1929,Cartão de Crédito,Pago
+5930,1930,Pix,Pago
+5931,1931,Cartão de Crédito,Pago
+5932,1932,Pix,Pago
+5933,1933,Cartão de Crédito,Pago
+5934,1934,Cartão de Crédito,Pendente
+5935,1935,Cartão de Crédito,Pago
+5936,1936,Cartão de Débito,Pendente
+5937,1937,Cartão de Crédito,Pendente
+5938,1938,Pix,Pago
+5939,1939,Boleto,Pendente
+5940,1940,Pix,Pago
+5941,1941,Pix,Pago
+5942,1942,Pix,Pago
+5943,1943,Cartão de Crédito,Pago
+5944,1944,Boleto,Pago
+5945,1945,Cartão de Débito,Pendente
+5946,1946,Cartão de Crédito,Pago
+5947,1947,Pix,Pago
+5948,1948,Cartão de Crédito,Pago
+5949,1949,Cartão de Crédito,Pago
+5950,1950,Cartão de Crédito,Pago
+5951,1951,Pix,Pago
+5952,1952,Boleto,Pago
+5953,1953,Cartão de Crédito,Pago
+5954,1954,Boleto,Pago
+5955,1955,Pix,Pago
+5956,1956,Boleto,Pendente
+5957,1957,Pix,Pago
+5958,1958,Pix,Pago
+5959,1959,Pix,Pago
+5960,1960,Pix,Pago
+5961,1961,Boleto,Pago
+5962,1962,Pix,Pago
+5963,1963,Cartão de Crédito,Pago
+5964,1964,Pix,Pago
+5965,1965,Cartão de Débito,Pago
+5966,1966,Pix,Pago
+5967,1967,Cartão de Crédito,Pago
+5968,1968,Cartão de Crédito,Pago
+5969,1969,Cartão de Débito,Pago
+5970,1970,Pix,Pago
+5971,1971,Boleto,Pago
+5972,1972,Cartão de Crédito,Pago
+5973,1973,Pix,Pendente
+5974,1974,Pix,Pago
+5975,1975,Boleto,Pago
+5976,1976,Cartão de Crédito,Pendente
+5977,1977,Cartão de Débito,Pago
+5978,1978,Pix,Pago
+5979,1979,Boleto,Pago
+5980,1980,Cartão de Débito,Pago
+5981,1981,Cartão de Crédito,Pago
+5982,1982,Cartão de Crédito,Pendente
+5983,1983,Cartão de Crédito,Pendente
+5984,1984,Pix,Pago
+5985,1985,Pix,Pago
+5986,1986,Cartão de Débito,Pago
+5987,1987,Cartão de Crédito,Pendente
+5988,1988,Boleto,Pago
+5989,1989,Boleto,Pago
+5990,1990,Boleto,Pago
+5991,1991,Cartão de Débito,Pago
+5992,1992,Pix,Pago
+5993,1993,Boleto,Pago
+5994,1994,Cartão de Crédito,Pago
+5995,1995,Boleto,Pago
+5996,1996,Cartão de Crédito,Pago
+5997,1997,Boleto,Pendente
+5998,1998,Boleto,Pago
+5999,1999,Pix,Pago
