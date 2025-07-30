@@ -1,13 +1,15 @@
 sources:
   - name: e-commerce
     schema: raw
-    description: Dados de e-commerce para KPUUSHOP
+    description: Dados de e-commerce para KPUUSHOP.
     tables:
       - name: clientes
         description: Registro dos Clientes disponiveis.
       - name: estoque
         description: Registro da quantidade de protudos disponiveis no estoque.
       - name: pagamentos
-        description: Registro dos pagamentos realizados e seus status
+        description: Registro dos pagamentos realizados e seus status.
       - name: produtos
-        description: Registro dos produtos disponiveis
+        description: Registro dos produtos disponiveis.
+      - name: vendas
+        description: Registro de vendas realizadas.
