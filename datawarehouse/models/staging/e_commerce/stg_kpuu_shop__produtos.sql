@@ -11,7 +11,7 @@ renamed_colunas as (
         produto_id as id_produto,
         nome_produto as produto_nome,
         categoria as categoria_produto,
-        preco as preco_produto
+        cast(preco as numeric) as preco_produto
     from source
 )
 

@@ -7,7 +7,7 @@ source_vendas as (
 renamed_colunas as (
     select
         venda_id as id_venda,
-        data_venda as venda_data,
+        cast(data_venda as date) as venda_data,
         cliente_id as id_cliente,
         produto_id as id_produto,
         quantidade as qtd_vendas
