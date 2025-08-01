@@ -169,3 +169,31 @@ Facilidade para novos membros entenderem o projeto.
 Melhor colaboração entre engenharia e áreas de negócio.
 
 Navegação visual entre tabelas e suas dependências (estilo DAG).
+
+## 📊 Visualização de Dados com Looker Studio
+
+Após a modelagem dos dados e construção dos modelos finais na camada `marts`, foi criado um **dashboard no Looker Studio** para visualizar os principais indicadores de vendas.
+
+### 🎯 Objetivo do Dashboard
+
+O objetivo da visualização é facilitar a análise e o acompanhamento dos dados transformados, permitindo uma leitura clara de métricas como:
+
+- Total de vendas por cliente
+- Total de vendas por categoria de produto
+- Total de vendas por estado e por região
+- Evolução das vendas ao longo do tempo
+
+### 🔗 Fonte de Dados
+
+O dashboard foi conectado diretamente à camada `marts` do projeto dbt no BigQuery, garantindo que os dados exibidos estejam atualizados e consistentes com o pipeline de transformação.
+
+### ✅ Benefícios
+
+- **Exploração interativa** dos dados por filtros dinâmicos (estado, cliente, categoria, etc.)
+- **Apoio à tomada de decisão** baseada em dados confiáveis e bem modelados
+- **Integração com o dbt**, assegurando rastreabilidade completa da origem dos dados
+
+
+<p align="center">
+  <img src="pic/dashboard.png" alt="Linhagem dos Dados" width="500">
+</p>
