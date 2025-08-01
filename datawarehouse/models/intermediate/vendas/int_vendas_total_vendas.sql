@@ -7,8 +7,9 @@ int_join_clientes_produtos_vendas as (
 
 int_total_vendas as (
     select
-        id_cliente
-            as nome_cliente,
+        id_cliente,
+        nome_cliente,
+        estado_sigla,
         venda_data,
         qtd_vendas,
         id_venda,
